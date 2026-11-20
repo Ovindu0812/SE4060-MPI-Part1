@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Compiled programs
+hello
+sum
+pi
+message1
+message2
+mismatch
+bsend
+exercise6
+exercise7
+exercise6_pi
+exercise7_pi
